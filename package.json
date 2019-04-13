@@ -1,0 +1,29 @@
+{
+  "name": "esi-miami",
+  "version": "0.0.1",
+  "description": "Enhance your HTML views with W3C Edge Side Includes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KraigWalker/esi-miami.git"
+  },
+  "keywords": [
+    "esi",
+    "edge",
+    "view",
+    "viewengine",
+    "express",
+    "html",
+    "static",
+    "jamstack"
+  ],
+  "author": "Kraig Walker <kraig_walker@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KraigWalker/esi-miami/issues"
+  },
+  "homepage": "https://github.com/KraigWalker/esi-miami#readme"
+}
