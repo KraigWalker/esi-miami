@@ -21,7 +21,7 @@
     "jamstack"
   ],
   "author": "Kraig Walker <kraig_walker@me.com>",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/KraigWalker/esi-miami/issues"
   },
